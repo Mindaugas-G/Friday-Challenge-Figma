@@ -82,6 +82,10 @@ body * {
     .active .btn {
         color: var(--color-blue-dark);
     }
+    .content {
+        grid-area: main;
+        background-color: #ebeef5;
+    }
 .bottom {
     text-align: center;
 }
